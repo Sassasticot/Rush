@@ -1,5 +1,6 @@
-Credentials cache: API:83620FD8-2D83-4F7C-AAF8-93AA16BCD821
+Credentials cache: API:CF385F4D-B4FD-43AB-812A-B14415988631
         Principal: avachero@42.FR
 
   Issued                Expires               Principal
-Jun 28 13:23:46 2021  Jul  5 13:23:46 2021  krbtgt/42.FR@42.FR
+Jun 29 22:24:08 2021  Jul  6 22:24:08 2021  krbtgt/42.FR@42.FR
+Jun 29 22:24:09 2021  Jul  6 22:24:08 2021  HTTP/student-storage-2.42.fr@42.FR
