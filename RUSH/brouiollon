@@ -1,0 +1,11 @@
+x y 
+if x == 1 
+	/ 
+si x <=2 \
+ si x < 3 *
+ si x < 5 et y < 3 * ' ' *
+
+ si y <1 \
+ si y <3 *
+ si y <= 2 /
+
